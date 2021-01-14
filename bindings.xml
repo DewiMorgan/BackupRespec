@@ -1,0 +1,12 @@
+<Bindings>
+  <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+    <Category name="BackupRespec">
+      <Action name="BACKUPRESPEC_BACKUP">
+        <Down>BackupRespec:Backup()</Down>
+      </Action>
+      <Action name="BACKUPRESPEC_RESTORE">
+        <Down>BackupRespec:Restore()</Down>
+      </Action>
+    </Category>
+  </Layer>
+</Bindings>
